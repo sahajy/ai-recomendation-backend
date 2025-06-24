@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Red Running Shoes",
+    "category": "Footwear",
+    "price": 700.00,
+    "tags": ["running", "sport", "red"]
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jacket",
+    "category": "Apparel",
+    "price": 1500,
+    "tags": ["casual", "winter", "blue","cold"]
+  },
+  {
+    "id": 3,
+    "name": "Black Leather Wallet",
+    "category": "Accessories",
+    "price": 200.00,
+    "tags": ["leather", "wallet", "men"]
+  }
+]
