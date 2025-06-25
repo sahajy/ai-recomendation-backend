@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API = "http://127.0.0.1:5000"; 
+const API = "https://ai-recomendation-backend-1.onrender.com"; 
 
 function App() {
   const [interests, setInterests] = useState("");
